@@ -1,4 +1,4 @@
-# Analyzing Text in Ruby
+# Analyzing Text in Python
 
 ## Contents
 
